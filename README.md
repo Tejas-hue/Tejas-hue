@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Anant - part human, part [error 404].<br>Psychology Undergrad Exploring Emotion, Intelligence & Ethics in AI<br>I write code that sometimes works on the first try (but mostly after Googling the error message).<br><br>🔭Currently working on: Pretending my side projects are “almost done” since 2024.<br><br>🌱 Learning: How to stop adding “just one more feature” before shipping.<br><br>🛠 Skills: JavaScript, Python, Git, blah blah and Advanced Ctrl+C / Ctrl+V.<br><br>💬 Ask me about: Anything tech… or how to perfectly time making tea between npm install and npm run.<br><br>📫 Reach me at: apanantpareek@gmail.com/https://www.linkedin.com/in/bananant/ <br>(I promise to respond faster than my CI pipeline)<br><br>⚡ Fun fact: I once fixed a bug by deleting the code. It worked. Don’t ask questions.<br><br>
+Hi, I’m Anant - part human, part [error 404].<br>Psychology Undergrad Exploring Emotion, Intelligence & Ethics in AI<br>I write code that sometimes works on the first try (but mostly after Googling the error message).<br><br>🔭Currently working on: Pretending my side projects are “almost done” since 2024.<br><br>🌱 Learning: How to stop adding “just one more feature” before shipping.<br><br>🛠 Skills: JavaScript, Python, Git, blah blah and Advanced Ctrl+C / Ctrl+V.<br><br>💬 Ask me about: Anything tech or psychology… or how to perfectly time making tea between npm install and npm run.<br><br>📫 Reach me at: The socials I have provided below <br>(I promise to respond faster than my CI pipeline)<br><br>⚡ Fun fact: I once fixed a bug by deleting the code. It worked. Don’t ask questions.<br><br>
 
 
 ## 🌐 Socials:
@@ -24,4 +24,13 @@ Hi, I’m Anant - part human, part [error 404].<br>Psychology Undergrad Explorin
 ---
 [![](https://visitcount.itsvg.in/api?id=Tejas-hue&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
