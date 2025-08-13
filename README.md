@@ -1,11 +1,10 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph-dark.svg?refresh=${{ github.run_id }}">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph.svg?refresh=${{ github.run_id }}">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Tejas-hue/Tejas-hue/output/pacman-contribution-graph.svg?refresh=${{ github.run_id }}">
 </picture>
-
 ###
 <p align="center">
   Hi, I’m <b>Anant</b> — part human, part <code>[error 404]</code>.<br>
