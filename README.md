@@ -9,7 +9,7 @@
 ###
 <p align="center">
   Hi, I’m <b>Anant</b>.<br>
-  I teach AI to read x-rays and understand emotions and stuff. Somehow that's my job.<br>
+  I teach AI to read x-rays and understand emotions and stuff.<br>
   Sometimes I fix bugs by deleting the code.
 </p>
 
